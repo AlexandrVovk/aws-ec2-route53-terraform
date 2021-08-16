@@ -32,9 +32,9 @@ variable "domain" {
 ### Installing 
 
 ```
-git clone 
+git clone git@github.com:AlexandrVovk/aws-ec2-route53-terraform.git
 
-cd ops02-terraform02
+cd aws-ec2-route53-terraform
 
 terraform init
 
@@ -50,4 +50,4 @@ terraform apply
 
 ## Authors
 
-* **Alexandr Vovk** [Gitlab](https://gitlab.rebrainme.com/mail.alexandr.vovk.v)
+* **Alexandr Vovk** [Gitlab](https://github.com/AlexandrVovk/)
